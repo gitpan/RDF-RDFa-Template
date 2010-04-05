@@ -5,10 +5,19 @@
 RDF-RDFa-Template
 =================
 
-Created:      2010-03-14
+Created:      2009-01-13
 Home page:    <http://www.kjetil.kjernsmo.net/software/rat/>
 Bug tracker:  <http://rt.cpan.org/NoAuth/ReportBug.html?Queue=RDF-RDFa-Template>
 Maintainer:   Kjetil Kjernsmo <mailto:kjetilk@cpan.org>
+
+0.02 [2010-04-05] # Fixing packaging and update to latest parser
+ - (Addition) Add HTTP::Server::Simple::CGI requirement for now.
+ - (Addition) Add Test::Perl::Critic.
+ - (Removal) Remove auto_install
+ - Remove named_graphs since it is deprecated by RDF::RDFa::Parser 1.0.
+ - (Bugfix) Minor Perl::Critic stuff.
+ - (Addition) Depend upon RDF::RDFa::Parser 1.0.
+ - (Bugfix) Forgot 'tests' om external test plan.
 
 0.01 [2010-04-04]
 

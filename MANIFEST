@@ -1,9 +1,7 @@
 Changes
 examples/dbpedia-mustang-range.input.xhtml
 examples/demoserver.pl
-inc/Module/AutoInstall.pm
 inc/Module/Install.pm
-inc/Module/Install/AutoInstall.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
 inc/Module/Install/DOAPChangeSets.pm
@@ -20,12 +18,13 @@ lib/RDF/RDFa/Template/SAXFilter.pm
 lib/RDF/RDFa/Template/SimpleQuery.pm
 lib/RDF/RDFa/Template/Unit.pm
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
 MANIFEST.SKIP
 META.yml
 README
 t/0-signature.t
 t/00-load.t
+t/01-critic.t
 t/data/dbpedia-mustang-range.expected.xhtml
 t/data/dbpedia-mustang-range.input.xhtml
 t/data/dbpedia-produced.expected.rq
