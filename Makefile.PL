@@ -22,7 +22,6 @@ test_requires 'Test::Exception';
 test_requires 'Test::XML';
 test_requires 'XML::LibXML::XPathContext';
 
-
 include 'Test::Signature';
 
 auto_set_repository;
