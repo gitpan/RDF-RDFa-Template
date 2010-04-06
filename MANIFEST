@@ -21,26 +21,6 @@ Makefile.PL
 MANIFEST			This list of files
 MANIFEST.SKIP
 META.yml
-RDF-RDFa-Template-0.02/Changes
-RDF-RDFa-Template-0.02/inc/Module/Install.pm
-RDF-RDFa-Template-0.02/inc/Module/Install/Include.pm
-RDF-RDFa-Template-0.02/inc/Module/Install/Makefile.pm
-RDF-RDFa-Template-0.02/inc/Module/Install/Metadata.pm
-RDF-RDFa-Template-0.02/lib/RDF/RDFa/Template/Unit.pm
-RDF-RDFa-Template-0.02/MANIFEST
-RDF-RDFa-Template-0.02/META.yml
-RDF-RDFa-Template-0.02/t/00-load.t
-RDF-RDFa-Template-0.02/t/data/dbpedia-mustang-range.input.xhtml
-RDF-RDFa-Template-0.02/t/data/dbpedia-produced.expected.rq
-RDF-RDFa-Template-0.02/t/data/localqueries/dbpedia-comment-other-variables/expected.xhtml
-RDF-RDFa-Template-0.02/t/data/localqueries/dbpedia-comment-other-variables/input.ttl
-RDF-RDFa-Template-0.02/t/data/localqueries/dbpedia-comment/input.xhtml
-RDF-RDFa-Template-0.02/t/data/publisher.input.xhtml
-RDF-RDFa-Template-0.02/t/localqueries.t
-RDF-RDFa-Template-0.02/t/pod-coverage.t
-RDF-RDFa-Template-0.02/t/simplequery.t
-RDF-RDFa-Template-0.03/Changes
-RDF-RDFa-Template-0.03/t/data/dbpedia-produced.expected.rq
 README
 t/00-load.t
 t/data/dbpedia-mustang-range.expected.xhtml

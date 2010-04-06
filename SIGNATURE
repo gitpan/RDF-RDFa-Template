@@ -14,31 +14,11 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 6937ad8c0b62eb34f2df53fdfbb044075ba751bb Changes
-SHA1 8ee84bfc2fed0cad57c55dcdd60a85e7828eb635 MANIFEST
-SHA1 e8dce7a3930f12ccd63d7c522bc9a0f50a5deecb MANIFEST.SKIP
-SHA1 4cee9354b045f4ee3fe5282e5ee91de537c8f6c5 META.yml
+SHA1 c9c0a2f515dbf450403ef186a4bf24e4ac1b9449 Changes
+SHA1 4a45c86a0c3c3bf944d6c1581bc9bdde5e079754 MANIFEST
+SHA1 4e0de98f09004807c96c229987ec186cef48b6bd MANIFEST.SKIP
+SHA1 1aadf087fe28be19890578377cf399751dc26e04 META.yml
 SHA1 6b6c8d0d37f3e58427a50906c72a0d5c57f3de9f Makefile.PL
-SHA1 6937ad8c0b62eb34f2df53fdfbb044075ba751bb RDF-RDFa-Template-0.02/Changes
-SHA1 6f27dc279c2819f3d5f124dcdc1298bfe72feb20 RDF-RDFa-Template-0.02/MANIFEST
-SHA1 074a9d27c496ff99a4b688c66ff2b90affb4cda8 RDF-RDFa-Template-0.02/META.yml
-SHA1 fd5f3c4f0418efee3b9b16cf8c3902e8374909df RDF-RDFa-Template-0.02/inc/Module/Install.pm
-SHA1 219da5a95c290312a81477b226f005997d97dcfd RDF-RDFa-Template-0.02/inc/Module/Install/Include.pm
-SHA1 3e83972921d54198d1246f7278f08664006cd65d RDF-RDFa-Template-0.02/inc/Module/Install/Makefile.pm
-SHA1 12bf1867955480d47d5171a9e9c6a96fabe0b58f RDF-RDFa-Template-0.02/inc/Module/Install/Metadata.pm
-SHA1 fd898c74e30ee03e2e528463bec45c8e1ec291e7 RDF-RDFa-Template-0.02/lib/RDF/RDFa/Template/Unit.pm
-SHA1 5201c6d9390d1daba899ddbd85b314ba98695542 RDF-RDFa-Template-0.02/t/00-load.t
-SHA1 249fcc6249c9130509f262ac297008f9207e4780 RDF-RDFa-Template-0.02/t/data/dbpedia-mustang-range.input.xhtml
-SHA1 f87e3e27efa00c1b612e341faac701a111fd0465 RDF-RDFa-Template-0.02/t/data/dbpedia-produced.expected.rq
-SHA1 d55509bac751695d04bf07743b2ae3482fb1ab93 RDF-RDFa-Template-0.02/t/data/localqueries/dbpedia-comment-other-variables/expected.xhtml
-SHA1 9ac0eb118eace8a08181eecf0b01192cddd01de8 RDF-RDFa-Template-0.02/t/data/localqueries/dbpedia-comment-other-variables/input.ttl
-SHA1 6f2500b5ff62f64fb94fddc388867c3f84dfb96f RDF-RDFa-Template-0.02/t/data/localqueries/dbpedia-comment/input.xhtml
-SHA1 a5fbf9d246ffb88ea4b117e400c21187d92bace3 RDF-RDFa-Template-0.02/t/data/publisher.input.xhtml
-SHA1 3c49cbff11ce71c55c9b10c39a7c745b595168a2 RDF-RDFa-Template-0.02/t/localqueries.t
-SHA1 0b1c5a2d59be6bfa7d60c64cd964fea6a0331705 RDF-RDFa-Template-0.02/t/pod-coverage.t
-SHA1 94aa08844f9e76ca1215807ce87e2dc25252cb2d RDF-RDFa-Template-0.02/t/simplequery.t
-SHA1 6937ad8c0b62eb34f2df53fdfbb044075ba751bb RDF-RDFa-Template-0.03/Changes
-SHA1 f87e3e27efa00c1b612e341faac701a111fd0465 RDF-RDFa-Template-0.03/t/data/dbpedia-produced.expected.rq
 SHA1 89f9dee325e4f48afe45a2eea46007495add44c4 README
 SHA1 249fcc6249c9130509f262ac297008f9207e4780 examples/dbpedia-mustang-range.input.xhtml
 SHA1 72608bfd43f89b5b21a61fb2084003b754ef6438 examples/demoserver.pl
@@ -53,7 +33,7 @@ SHA1 12bf1867955480d47d5171a9e9c6a96fabe0b58f inc/Module/Install/Metadata.pm
 SHA1 f7ee667e878bd2faf22ee9358a7b5a2cc8e91ba4 inc/Module/Install/Win32.pm
 SHA1 8ed29d6cf217e0977469575d788599cbfb53a5ca inc/Module/Install/WriteAll.pm
 SHA1 1e6399a0585817abef500c34fce676fb9b0545f0 inc/Test/Signature.pm
-SHA1 90be0309d1b299a6a72915f6df7bd3e2b7652519 lib/RDF/RDFa/Template.pm
+SHA1 31be3de5555f666b360695f64e52bfe719b434d6 lib/RDF/RDFa/Template.pm
 SHA1 5aca837fddcad0d36003f332a8b9a20ef5a535df lib/RDF/RDFa/Template/Document.pm
 SHA1 df7f0822f8f3e39ce45959ddc6182ccfbcb9289a lib/RDF/RDFa/Template/SAXFilter.pm
 SHA1 ceca199976315eac3b25175ce866f2849b0b1361 lib/RDF/RDFa/Template/SimpleQuery.pm
@@ -86,7 +66,7 @@ SHA1 152611e32e58da36f6201075c426b6d4668ae885 xt/01-critic.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.9 (GNU/Linux)
 
-iD8DBQFLu3mmlE/Gp2pqC7wRAlpBAJ46LwY6yZ86wBwKHaPrs5rWL/dLngCfYI/s
-7DtnISUj+mr+26ye0axH4RE=
-=DFyY
+iD8DBQFLu4ORlE/Gp2pqC7wRAuERAKCPN4ioo7xUa9O0FV3pZII1gSoOpgCfVxcH
+0a1sjZcOAOd4NqYhp3cFKKc=
+=lj+n
 -----END PGP SIGNATURE-----

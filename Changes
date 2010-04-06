@@ -10,17 +10,17 @@ Home page:    <http://www.kjetil.kjernsmo.net/software/rat/>
 Bug tracker:  <http://rt.cpan.org/NoAuth/ReportBug.html?Queue=RDF-RDFa-Template>
 Maintainer:   Kjetil Kjernsmo <mailto:kjetilk@cpan.org>
 
-0.03 [2010-04-06] # Use author tests
- - (Bugfix) Forgot named_graph in Document POD.
+0.04 [2010-04-06] # Use author tests
  - (Bugfix) Move the Test::Signature and Perl::Critic tests to xt/.
+ - (Bugfix) Forgot named_graph in Document POD.
 
 0.02 [2010-04-05] # Fixing packaging and update to latest parser
- - (Addition) Add Test::Perl::Critic.
  - (Addition) Depend upon RDF::RDFa::Parser 1.0.
- - (Removal) Remove auto_install
- - (Bugfix) Minor Perl::Critic stuff.
  - (Bugfix) Forgot 'tests' om external test plan.
+ - (Removal) Remove auto_install
  - Remove named_graphs since it is deprecated by RDF::RDFa::Parser 1.0.
+ - (Addition) Add Test::Perl::Critic.
+ - (Bugfix) Minor Perl::Critic stuff.
  - (Addition) Add HTTP::Server::Simple::CGI requirement for now.
 
 0.01 [2010-04-04]

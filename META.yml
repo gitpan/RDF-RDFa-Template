@@ -38,4 +38,4 @@ requires:
 resources:
   homepage: http://www.kjetil.kjernsmo.net/software/rat/
   license: http://dev.perl.org/licenses/
-version: 0.03
+version: 0.04
