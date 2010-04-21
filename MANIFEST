@@ -1,14 +1,17 @@
 Changes
+Changes.ttl
 examples/dbpedia-mustang-range.input.xhtml
 examples/demoserver.pl
 inc/Module/Install.pm
 inc/Module/Install/Base.pm
+inc/Module/Install/Bugtracker.pm
 inc/Module/Install/Can.pm
 inc/Module/Install/DOAPChangeSets.pm
 inc/Module/Install/Fetch.pm
 inc/Module/Install/Include.pm
 inc/Module/Install/Makefile.pm
 inc/Module/Install/Metadata.pm
+inc/Module/Install/Repository.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
 inc/Test/Signature.pm
@@ -22,6 +25,7 @@ MANIFEST			This list of files
 MANIFEST.SKIP
 META.yml
 README
+SIGNATURE
 t/00-load.t
 t/data/dbpedia-mustang-range.expected.xhtml
 t/data/dbpedia-mustang-range.input.xhtml
@@ -47,4 +51,3 @@ t/pod.t
 t/simplequery.t
 xt/0-signature.t
 xt/01-critic.t
-SIGNATURE                                Public-key signature (added by MakeMaker)

@@ -10,18 +10,25 @@ Home page:    <http://www.kjetil.kjernsmo.net/software/rat/>
 Bug tracker:  <http://rt.cpan.org/NoAuth/ReportBug.html?Queue=RDF-RDFa-Template>
 Maintainer:   Kjetil Kjernsmo <mailto:kjetilk@cpan.org>
 
+0.05 [2010-04-22] # Add more documentation; bugfixes
+ - (Bugfix) DBPedia has updated ontology on units.
+ - (Addition) Add something about finding the example script.
+ - (Bugfix) It is literal_datatype, not literal_value_datatype.
+ - Move the doap.ttl back
+ - (Addition) Smaller README changes.
+
 0.04 [2010-04-06] # Use author tests
- - (Bugfix) Move the Test::Signature and Perl::Critic tests to xt/.
  - (Bugfix) Forgot named_graph in Document POD.
+ - (Bugfix) Move the Test::Signature and Perl::Critic tests to xt/.
 
 0.02 [2010-04-05] # Fixing packaging and update to latest parser
- - (Addition) Depend upon RDF::RDFa::Parser 1.0.
- - (Bugfix) Forgot 'tests' om external test plan.
- - (Removal) Remove auto_install
  - Remove named_graphs since it is deprecated by RDF::RDFa::Parser 1.0.
- - (Addition) Add Test::Perl::Critic.
  - (Bugfix) Minor Perl::Critic stuff.
+ - (Bugfix) Forgot 'tests' om external test plan.
  - (Addition) Add HTTP::Server::Simple::CGI requirement for now.
+ - (Removal) Remove auto_install
+ - (Addition) Depend upon RDF::RDFa::Parser 1.0.
+ - (Addition) Add Test::Perl::Critic.
 
 0.01 [2010-04-04]
 

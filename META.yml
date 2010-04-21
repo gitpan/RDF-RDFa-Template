@@ -36,6 +36,8 @@ requires:
   XML::LibXML::SAX::Parser: 0
   XML::SAX::Base: 0
 resources:
+  bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=RDF-RDFa-Template
   homepage: http://www.kjetil.kjernsmo.net/software/rat/
   license: http://dev.perl.org/licenses/
-version: 0.04
+  repository: svn+ssh://svn.kjernsmo.net/RDF-RDFa-Template/trunk
+version: 0.05
